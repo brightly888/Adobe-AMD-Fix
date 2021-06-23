@@ -1,5 +1,5 @@
 > Adobe Photoshop 2020 v21.2.5 : Not Works 
-
+> 2021.06.23
 
 
 	## Adobe Crash Fix for AMD
