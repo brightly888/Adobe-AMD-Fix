@@ -1,5 +1,8 @@
+> Adobe Photoshop 2020 v21.2.5 : Not Works 
+> 2021.06.23
 
-## Adobe Crash Fix for AMD
+
+	## Adobe Crash Fix for AMD
 Adobe Creative Cloud fix for AMD Ryzen in macOS 
 
 ### Instructions
